@@ -19,8 +19,9 @@ Multirate Signal Processing Seminars
    - SciPy Signal Spectrogram<br> 
    <a href="https://colab.research.google.com/github/TUIlmenauAMS/MRSP_Tutorials/blob/master/seminars/mrsp_support_02.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"></a>
 <a href="https://nbviewer.org/github/TUIlmenauAMS/MRSP_Tutorials/blob/master/seminars/mrsp_support_02.ipynb" target="_blank"><img src="https://badgen.net/badge/View/in%20NBViewer/blue?icon=terminal" alt="nbviewer"></a>[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/N3a-jjq3FAY)
-  - Librosa STFT<br>
-
+  - Librosa STFT<br> 
+  <a href="https://colab.research.google.com/github/TUIlmenauAMS/MRSP_Tutorials/blob/master/seminars/mrsp_support_02.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"></a>
+<a href="https://nbviewer.org/github/TUIlmenauAMS/MRSP_Tutorials/blob/master/seminars/mrsp_support_02.ipynb" target="_blank"><img src="https://badgen.net/badge/View/in%20NBViewer/blue?icon=terminal" alt="nbviewer"></a>[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/7hEyXME4oMc)
 
 
 
