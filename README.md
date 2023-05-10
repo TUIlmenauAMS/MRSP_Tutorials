@@ -8,7 +8,7 @@
 [Technische Universität Ilmenau](https://www.tu-ilmenau.de/)
 
 # Content
-- 01 Introduction: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MSP_Intro.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MSP_Intro.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/MRSP_Notebooks/blob/master/MSP_Intro.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/rkQN6WVi8ak)
+- 01 Introduction: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MSP_Intro.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MSP_Intro.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/TUIlmenauAMS/MRSP_Tutorials/blob/master/MSP_Intro.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/rkQN6WVi8ak)
 
   - What is Multirate Signal Processing? Where is it used?
   - Python Example of a Discrete Time Signal
@@ -21,7 +21,7 @@
   - Analysis Filter Bank
   - Synthesis Filter Bank
   
-- 02 Multiresolution: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MSP_Multiresolution.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MSP_Multiresolution.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/MRSP_Notebooks/blob/master/MSP_Multiresolution.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/O4m8fZHgl0c)
+- 02 Multiresolution: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MSP_Multiresolution.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MSP_Multiresolution.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/TUIlmenauAMS/MRSP_Tutorials/blob/master/MSP_Multiresolution.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/O4m8fZHgl0c)
 
   - Uniform Filter Banks
   - Python Example: Live Spectrogram and Aliasing
@@ -34,7 +34,7 @@
     - z-Transform
     - Short-Time Fourier Transform (STFT)
     
-- 03 Frequency Response: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MSP_FrequencyResponse.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MSP_FrequencyResponse.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/MRSP_Notebooks/blob/master/MSP_FrequencyResponse.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/7XWrH9IV-EA)
+- 03 Frequency Response: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MSP_FrequencyResponse.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MSP_FrequencyResponse.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/TUIlmenauAMS/MRSP_Tutorials/blob/master/MSP_FrequencyResponse.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/7XWrH9IV-EA)
 
     - Frequency Response
     - Example: Obtaining the Frequency Response of a "Black Box" system using Noise
@@ -48,7 +48,7 @@
         - dB for Voltage and Power
         - Cascading Filters
         
- - 04 Filters: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MSP_Filters.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MSP_Filters.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/MRSP_Notebooks/blob/master/MSP_Filters.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/BhyxN_INkNw)
+ - 04 Filters: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MSP_Filters.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MSP_Filters.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/TUIlmenauAMS/MRSP_Tutorials/blob/master/MSP_Filters.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/BhyxN_INkNw)
 
     - Ideal Low Pass Filter
         - Frequency Response
@@ -63,14 +63,14 @@
     - Rectangular Window
     - Approximation of an Ideal Low Pass Filter using a Rectangular Window and Delay
     
- - 06a Windows: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_Windows.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MRSP_Windows.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_Windows.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/Dwkdlb5xYkM)
+ - 06a Windows: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_Windows.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MRSP_Windows.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/TUIlmenauAMS/MRSP_Tutorials/blob/master/MRSP_Windows.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/Dwkdlb5xYkM)
 
     - Rectangular Window
     - Raised Cosine Window
     - Kaiser Window
     - Vorbis Specification
   
- - 06b Filter Design with the Window Method: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_Filter_Design_Windows.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MRSP_Filter_Design_Windows.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_Filter_Design_Windows.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/hxWyLvSwh7k)
+ - 06b Filter Design with the Window Method: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_Filter_Design_Windows.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MRSP_Filter_Design_Windows.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/TUIlmenauAMS/MRSP_Tutorials/blob/master/MRSP_Filter_Design_Windows.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/hxWyLvSwh7k)
 
     - Design Method
     - Design using Modulation
@@ -82,12 +82,12 @@
     - Downsampling
     - Upsampling
 
-- 08 Effects in the z-Domain: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_zDomain.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MRSP_zDomain.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_zDomain.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/Ocb7r3ww5Tc)
+- 08 Effects in the z-Domain: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_zDomain.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MRSP_zDomain.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/TUIlmenauAMS/MRSP_Tutorials/blob/master/MRSP_zDomain.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/Ocb7r3ww5Tc)
  
     - Modulation
     - Time-Reversal
         
- - 09 Non-Ideal Filters: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_nonIdeal.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MRSP_nonIdeal.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_nonIdeal.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/wdFrdt3m0BU)
+ - 09 Non-Ideal Filters: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_nonIdeal.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MRSP_nonIdeal.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/TUIlmenauAMS/MRSP_Tutorials/blob/master/MRSP_nonIdeal.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/wdFrdt3m0BU)
  
     - Filter Banks
     - Analysis Filter Bank
@@ -95,14 +95,14 @@
     - Python Example
     - Fast Implementation
  
- - 10 Transforms as Filter Banks: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_DFT_Equivalent.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MRSP_DFT_Equivalent.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_DFT_Equivalent.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/4-5xq47I7gs)
+ - 10 Transforms as Filter Banks: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_DFT_Equivalent.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MRSP_DFT_Equivalent.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/TUIlmenauAMS/MRSP_Tutorials/blob/master/MRSP_DFT_Equivalent.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/4-5xq47I7gs)
  
     - Equivalent Analysis Filters of a DFT
     - Equivalent Synthesis Filter Bank
     - Python Example
     - Example Transform as Filter Bank
  
- - 11 DCT and Polyphase Representation: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_DCT_Polyphase.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MRSP_DCT_Polyphase.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_DCT_Polyphase.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/sPXt7PBBwnw)
+ - 11 DCT and Polyphase Representation: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_DCT_Polyphase.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MRSP_DCT_Polyphase.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/TUIlmenauAMS/MRSP_Tutorials/blob/master/MRSP_DCT_Polyphase.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/sPXt7PBBwnw)
  
     - Notation
     - Discrete Cosine Transfomr (DCT)
@@ -113,13 +113,13 @@
     - Application Example
     - Auxiliary Functions
     
- - 12 Polyphase Representation: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_Polyphase.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MRSP_Polyphase.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_Polyphase.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/oGT5GcOIvFo)
+ - 12 Polyphase Representation: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_Polyphase.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MRSP_Polyphase.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/TUIlmenauAMS/MRSP_Tutorials/blob/master/MRSP_Polyphase.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/oGT5GcOIvFo)
  
     - Polyphase Representation
     - Synthesis filter Bank
     - Perfect Reconstruction
     
- - 13 MDCT: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_mdct.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MRSP_mdct.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_mdct.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/RhDB5yKdU5s)
+ - 13 MDCT: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_mdct.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MRSP_mdct.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/TUIlmenauAMS/MRSP_Tutorials/blob/master/MRSP_mdct.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/RhDB5yKdU5s)
  
     - Modified Discrete Cosine Transform (MDCT)
     - MDCT Filters: Python Example
@@ -136,14 +136,14 @@
     - MDCT Python Implementation, Analysis
     - MDCT Synthesis Filter Bank
     
-- 14 LDFB: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_LDFB.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MRSP_LDFB.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_LDFB.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/MFbMI5yoaOk)
+- 14 LDFB: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_LDFB.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MRSP_LDFB.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/TUIlmenauAMS/MRSP_Tutorials/blob/master/MRSP_LDFB.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/MFbMI5yoaOk)
  
     - Low Delay Filter Banks (LDFB)
     - Zero-Delay Matrix
     - Maximum-Delay Matrix
     - Python Fast Implementation Example
     
-- 15 Optimization of Filter Banks: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_Optimization_FilterBanks.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MRSP_Optimization_FilterBanks.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_Optimization_FilterBanks.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/5TdrxOhlROk)
+- 15 Optimization of Filter Banks: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_Optimization_FilterBanks.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MRSP_Optimization_FilterBanks.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/TUIlmenauAMS/MRSP_Tutorials/blob/master/MRSP_Optimization_FilterBanks.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/5TdrxOhlROk)
  
     - Goal
     - Approach
@@ -151,7 +151,7 @@
     - Gradient Descent
     - Python Example for the Optimization of an MDCT Filter Bank
     
-- 16 Artificial Neural Networks: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_NeuralNets.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MRSP_NeuralNets.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_NeuralNets.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/4l3uTwFJpdo)
+- 16 Artificial Neural Networks: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_NeuralNets.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MRSP_NeuralNets.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/TUIlmenauAMS/MRSP_Tutorials/blob/master/MRSP_NeuralNets.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/4l3uTwFJpdo)
  
     - Artificial Neural Networks
     - Gradient Descent and Back-Propagation
