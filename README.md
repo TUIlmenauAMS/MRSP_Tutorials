@@ -162,6 +162,7 @@
     - Implementation using a Dense Net
     - Real-Time Online-Implementation of Convolutional Neural Networks
 
+- 16b Pytorch MNIST Digit Recognition with Webcam [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/TUIlmenauAMS/MRSP_Tutorials/blob/master/camera_digit_recogniser.ipynb)
     
  # YouTube Playlist
  [![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://www.youtube.com/playlist?list=PL6QnpHKwdPYiDOUHecdZc1WPTnJ-dd0cT)
