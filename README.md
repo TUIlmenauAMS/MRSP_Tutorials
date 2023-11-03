@@ -120,7 +120,7 @@
     - Perfect Reconstruction
     
  - 13 MDCT: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_mdct.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MRSP_mdct.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/TUIlmenauAMS/MRSP_Tutorials/blob/master/MRSP_mdct.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/RhDB5yKdU5s)
- MRSP_NeuralNets.ipynb
+   
     - Modified Discrete Cosine Transform (MDCT)
     - MDCT Filters: Python Example
     - Symmetries of a Cosine Modulation Function
