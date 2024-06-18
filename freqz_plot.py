@@ -26,7 +26,7 @@ def freqz_plot(x, behaviour='matlab', color='b'):
     fNorm = f/np.pi 
     
     # magnitude in dB
-    hdB = 20 * np.log10(abs(h)+1e-4) #"+1e-5" avoids log10(0)!
+    hdB = 20 * np.log10(abs(h)+1e-5) #"+1e-5" avoids log10(0)!
     
     # open figure
     plt.figure()
