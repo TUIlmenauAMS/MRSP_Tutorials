@@ -26,7 +26,7 @@ def freqz_plot(x, behaviour='matlab', color='b'):
     fNorm = f/np.pi 
     
     # magnitude in dB
-    hdB = 20 * np.log10(abs(h)+1e-5) #"+1e-5" avoids log10(0)!
+    hdB = 20 * np.log10(abs(h)+1e-4) #"+1e-5" avoids log10(0)!
     
     # open figure
     plt.figure()
@@ -49,11 +49,11 @@ def freqz_plot(x, behaviour='matlab', color='b'):
         plt.title('Stopband')
     else:
         plt.subplot(211)
-        plt.title('Magnitude')
+        #plt.title('Magnitude')
     plt.plot(f, hdB, color)
     plt.axis([0,3.14,np.min(hdB)-1,np.max(hdB)+1])
     plt.grid(True)
-    plt.xlabel('Normalized Frequency (rad/sample)')
+    #plt.xlabel('Normalized Frequency (rad/sample)')
     plt.ylabel('Magnitude (dB)')
     
     # Phase
@@ -61,8 +61,9 @@ def freqz_plot(x, behaviour='matlab', color='b'):
         plt.subplot(313)
     else:
         plt.subplot(212)
-    plt.title('Phase')
-    angles = np.unwrap(np.angle(h))
+    #plt.title('Phase')
+    angles = np.angle(h)
+    #angles = np.unwrap(np.angle(h)) #unwrapped version
     anglesGrad = (360 * angles)/(2*np.pi)
     plt.plot(f, anglesGrad, color)
     plt.axis([0,3.14,np.min(anglesGrad),np.max(anglesGrad)])
