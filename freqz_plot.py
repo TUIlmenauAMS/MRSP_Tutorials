@@ -70,3 +70,4 @@ def freqz_plot(x, behaviour='matlab', color='b'):
     plt.grid(True)
     plt.xlabel('Normalized Frequency (rad/sample)')
     plt.ylabel('Phase (degrees)')
+    plt.show()
