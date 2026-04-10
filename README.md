@@ -16,7 +16,9 @@ https://www.youtube.com/playlist?list=PL5QfKiTKGyftMIW23IToDyV282pXHhXCd
 
   - What is Multirate Signal Processing? Where is it used?
   - Python Example of a Discrete Time Signal
-  - Python Example for a Live Plot of a Microphone Signal
+  - Python and browser app example for a Live and audio file Plot of a Microphone Signal:
+[time plot and quantization_demo_web_audio.html](https://htmlpreview.github.io/?https://github.com/TUIlmenauAMS/ADSP_Tutorials/blob/master/quantization_demo_web_audio.html)
+
   - Javascript Example for a Live Plot of a Microphone Signal
   - Nyquist Theorem
   - Simple Sample Rate Conversion Example
