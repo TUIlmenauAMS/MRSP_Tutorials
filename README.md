@@ -11,8 +11,7 @@ The Multirate Signal Processing lecture YouTube video Playlist is:
 
 https://www.youtube.com/playlist?list=PL5QfKiTKGyftMIW23IToDyV282pXHhXCd
 
-This is my upcoming [book on it]
-(https://link.springer.com/book/10.1007/https://link.springer.com/book/10.1007/978-3-032-17201-3)
+This is my upcoming [book on it](https://link.springer.com/book/10.1007/https://link.springer.com/book/10.1007/978-3-032-17201-3)
 
 # Content
 - 01 Introduction: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MSP_Intro.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MSP_Intro.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/TUIlmenauAMS/MRSP_Tutorials/blob/master/MSP_Intro.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/rkQN6WVi8ak)
