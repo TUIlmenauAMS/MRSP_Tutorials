@@ -124,7 +124,6 @@ This is our accompanying Chatbot ["Multirate Mentor"](https://chatgpt.com/g/g-iC
         - Faster Implementation
     - Application Example
     - Auxiliary Functions
-    - Demo: Real-time MDCT audio equalizer with 8 or 16 subbands: `python3 mdct_equalizer.py --bands 16 --input mic`, or `python3 mdct_equalizer.py --bands 8 --input fantasy_orchestra.wav`
     
  - 12 Polyphase Representation: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_Polyphase.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MRSP_Polyphase.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/TUIlmenauAMS/MRSP_Tutorials/blob/master/MRSP_Polyphase.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/oGT5GcOIvFo)
  
@@ -148,6 +147,7 @@ This is our accompanying Chatbot ["Multirate Mentor"](https://chatgpt.com/g/g-iC
         - Example in Python
     - MDCT Python Implementation, Analysis
     - MDCT Synthesis Filter Bank
+    - Demo: Real-time MDCT audio equalizer with 8 or 16 subbands: `python3 mdct_equalizer.py --bands 16 --input mic`, or `python3 mdct_equalizer.py --bands 8 --input fantasy_orchestra.wav`
     
 - 14 LDFB: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MRSP_Notebooks/blob/master/MRSP_LDFB.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MRSP_Notebooks/master?filepath=MRSP_LDFB.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/TUIlmenauAMS/MRSP_Tutorials/blob/master/MRSP_LDFB.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/MFbMI5yoaOk)
  
